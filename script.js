@@ -1,3 +1,2 @@
-const creator;
-creator = "Jay";
+const creator = "Jay";
 console.log(`Hello ${creator}!`);
