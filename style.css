@@ -13,24 +13,23 @@ body{
     font-family: Arial, sans-serif;
 }
 
-div.prompt{
+/* div.prompt {
     padding: 10px;
     border-radius: 15px;
     text-align: center;
 
-    /* border + glow */
+    border + glow
     border: 1px solid rgba(255, 255, 255, 0.15);
     box-shadow: 0 0 20px rgba(128, 0, 255, 0.3);
-
-}
+    } */
 
 button#prompt-btn{
     padding: 10px 20px;
     border: none;
-    border-radius: 5px;
+    border-radius: 8px;
     background-color: #8000ff;
-    color: white;
-    font-size: 16px;
+    color: rgb(199, 184, 184);
+    font-size: 15px;
     cursor: pointer;
-    transition: background-color 0.3s ease, transform 0.2s ease;
+    transition: background-color 0.3s ease, transform 0.2s ease;    
 }
