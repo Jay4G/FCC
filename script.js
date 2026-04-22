@@ -11,3 +11,5 @@ document.getElementById("prompt-btn").addEventListener("click", function(){
         console.log("Baaaaaakaaa!");
     }
 });
+
+console.log(String.fromCharCode(66));
